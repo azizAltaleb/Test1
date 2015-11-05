@@ -17,6 +17,7 @@ import android.view.View;
 
 public class HomePage extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+    int x = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
