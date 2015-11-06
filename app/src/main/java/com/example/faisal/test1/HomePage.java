@@ -1,5 +1,5 @@
 package com.example.faisal.test1;
-// importdfgvdr
+// import
 
 import android.content.Intent;
 import android.os.Bundle;
